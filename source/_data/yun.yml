@@ -1,4 +1,17 @@
 avatar:
-  url: /images/avatar.jpg # 你的头像图片地址
+  url: /images/author.JPG # 你的头像图片地址
   rounded: true
   opacity: 1
+
+# UI
+banner:
+  enable: true
+  title: 王花菇与叶香橼
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
