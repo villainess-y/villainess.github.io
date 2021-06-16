@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://github.com/villainess-y/villainess.github.io/
-root: /
+root: /villainess.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: https://github.com/villainess-y/villainess.github.io # 比如：https://github.com/YunYouJun/yunyoujun.github.io
   branch: master # 默认使用 master 分支
-  message: 文章增加图片123 # 你可以自定义此次部署更新的说明
+  message: 修改图片路径地址 # 你可以自定义此次部署更新的说明
