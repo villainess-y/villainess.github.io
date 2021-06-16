@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/villainess-y/villainess.github.io # 比如：https://github.com/YunYouJun/yunyoujun.github.io
   branch: master # 默认使用 master 分支
-  message: 修改了人物头像以及名称 # 你可以自定义此次部署更新的说明
+  message: 文章增加图片 # 你可以自定义此次部署更新的说明
