@@ -15,3 +15,6 @@ banner:
   go_down:
     enable: true
     icon: icon-arrow-down-s-line
+
+wordcloud:
+  enable: true

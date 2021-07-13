@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: 王花菇与叶香橼
-language: zh_CN
+language: zh-CN
 timezone: ''
 
 # URL
@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: https://github.com/villainess-y/villainess.github.io # 比如：https://github.com/YunYouJun/yunyoujun.github.io
   branch: master # 默认使用 master 分支
-  message: 修改图片路径地址 # 你可以自定义此次部署更新的说明
+  message: 增加分类与标签的页面，调整语言 # 你可以自定义此次部署更新的说明
