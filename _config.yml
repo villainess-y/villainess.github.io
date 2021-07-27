@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: https://github.com/villainess-y/villainess.github.io # 比如：https://github.com/YunYouJun/yunyoujun.github.io
   branch: master # 默认使用 master 分支
-  message: 去掉了左边状态栏的各种快捷跳转 # 你可以自定义此次部署更新的说明
+  message: 增加了redis几篇文章 # 你可以自定义此次部署更新的说明

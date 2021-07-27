@@ -1,10 +1,13 @@
 
 ---
-title: Redis——六：对象
-date: 2021-06-15 22:46:25
+title: Redis——对象
+date: 2021-06-09 22:46:25
 updated: 2021-06-15 22:46:29
-tags: 学习
-categories: Redis
+tags: 
+    - 学习
+    - 数据结构
+categories: 
+    - Redis
 ---
 
 # 概述
